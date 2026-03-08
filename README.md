@@ -1,6 +1,7 @@
 DOM Grocery List
 
 Overview
+
 This program demonstrates basic JavaScript DOM manipulation. It displays a grocery list and highlights the items that have been bought from the list.
 
 How It Works
@@ -14,4 +15,5 @@ How It Works
 Files Included
 
 JavaScript file
+
 HTML file
